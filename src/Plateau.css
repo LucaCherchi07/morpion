@@ -1,13 +1,22 @@
-.case {
-    /* background-color: bisque; */
-    font-size: xx-large;
-    width: 80px;
-    height: 80px;
+* {
     padding: 0;
     margin: 0;
+}
+
+.case {
+    font-size: xx-large;
+    width: 100px;
+    height: 100px;
+    line-height: 1em;
+    vertical-align: middle;
 }
 
 .status {
     font-size: xx-large;
     padding-bottom: 10px;
+}
+
+.ligne {
+    padding: 0;
+    margin: 0;
 }
